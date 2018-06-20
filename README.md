@@ -1,4 +1,4 @@
-# Android Draw [![](https://jitpack.io/v/divyanshub024/AndroidDraw.svg)](https://jitpack.io/#divyanshub024/AndroidDraw)
+# Android Draw [![](https://user-images.githubusercontent.com/36132662/41676817-4fc99492-74cf-11e8-9f2f-29089c5b76b2.png)](https://jitpack.io/#divyanshub024/AndroidDraw)
 
 A drawing view for your android application.
 
