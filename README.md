@@ -2,7 +2,7 @@
 
 A drawing view for your android application.
 
-<img src="https://github.com/divyanshub024/AndroidDraw/blob/master/Art/icon.png" width="120">
+<img src="https://user-images.githubusercontent.com/36132662/41676817-4fc99492-74cf-11e8-9f2f-29089c5b76b2.png" width="120">
 
 <a href='https://play.google.com/store/apps/details?id=com.divyanshu.androiddraw&rdid=com.divyanshu.androiddraw&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width = "320"/></a>							
 
